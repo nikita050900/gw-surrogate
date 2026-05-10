@@ -1,0 +1,25 @@
+# Data files (regenerated from scripts)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# Environment
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training artifacts
+*.pt
+*.pth
+runs/

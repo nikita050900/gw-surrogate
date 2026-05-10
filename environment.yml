@@ -1,0 +1,13 @@
+name: gw-surrogate
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - pytorch
+  - jupyter
+  - tqdm
+  - h5py
